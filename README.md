@@ -3,9 +3,9 @@
 Saya bukan apa-apa, tapi mencoba menjadi apa yang saya impikan..<br>
 Saya bermimpi menjadi orang sukses di dunia dan akherat. Semoga ini semua menjadi kenyataan.. Aamiin..
 
-### Markdown
+### Jobs
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dengan belajar otodidak dari berbagai referensi di internet, saya mulai belajar membuat video tutorial di YouTube. Dan kini saya memiliki 2 (dua) Channel yang mudah-mudahan bisa bermanfaat untuk kita semua.
 
 ```markdown
 Syntax highlighted code block
@@ -30,7 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Kontak
 
-**Punya masalah? Yuk hubungi saya :)**<br>
+**Punya masalah? atau mau Partner Bisnis, yuk hubungi Saya :call_me_hand:**<br>
 E-mail: trijuni@hotmail.com<br>
-Instagram: @juni_127001<br>
-Twitter: @juni_127001
+Instagram: [@juni_127001](https://www.instagram.com/juni_127001/)<br>
+Twitter: [@juni_127001](https://www.twitter.com/juni_127001/)
