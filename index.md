@@ -1,123 +1,37 @@
----
-layout: default
----
+## Selamat Datang
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Saya bukan apa-apa, tapi mencoba menjadi apa yang saya impikan..<br>
+Saya bermimpi menjadi orang sukses di dunia dan akherat. Semoga ini semua menjadi kenyataan.. Aamiin..
 
-[Link to another page](./another-page.html).
+### Jobs
 
-There should be whitespace between paragraphs.
+Kesibukan saya saat ini, bukan sok sibuk tapi beneran punya kesibukan.. Alhamdulillah dipercaya jadi Staff Kantor di Kota Slawi - Kab. Tegal (Laporan Keuangan dan Tim Media).<br>
+Selanjutnya diluar dari Lingkungan Kantor jadi Content Creator nih hehee, dengan belajar otodidak dari berbagai referensi di Internet, saya mulai belajar membuat video tutorial kemudian saya publikasi ke YouTube. Dan kini saya memiliki 2 (dua) Channel yang mudah-mudahan bisa bermanfaat untuk kalian semua.
+#### YouTube ✔️
+📺 [JAC Art Code](https://www.youtube.com/channel/UCaj_xoq4eM4dPRQg24KW6FA)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+#### YouTube ✔️
+📺 [1001 bootanimation](https://www.youtube.com/channel/UCN0nycdsYxB0VHQWlF94Y5Q)
+<br>
+<br>
+<br>
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+```markdown
+# Quotes of the day:
+    "Perbanyak Sedekah,
+      Bersedekahlah kawan..
+        Bersedekah itu bukan hanya membantu orang lain, tetapi juga membantu diri kita sendiri"
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+<br>
 
-#### Header 4
+### Kontak
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+**Punya masalah? atau mau Partner Bisnis, yuk hubungi Saya** 🤙😘<br>
+E-mail: [trijuni@hotmail.com](mailto:trijuni@hotmail.com)<br>
+Instagram: [@juni_127001](https://www.instagram.com/juni_127001/)<br>
+Twitter: [@juni_127001](https://www.twitter.com/juni_127001/)
+<br>
+<br>
+![TRI JUNI MANGKURAHARJO](https://user-images.githubusercontent.com/91836723/135767377-946b594f-ea76-44bf-b544-55cf388a1d8c.jpg)<br>
+>`Tri Juni Mangkuraharjo, S.Kom`
