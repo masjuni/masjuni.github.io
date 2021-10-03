@@ -1,8 +1,7 @@
 ## Selamat Datang
 
-You can use the [editor on GitHub](https://github.com/trijuni-dev/trijuni-dev.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Saya bukan apa-apa, tapi mencoba menjadi apa yang saya impikan..
+Saya bermimpi menjadi orang sukses di dunia dan akherat. Semoga ini semua menjadi kenyataan.. Aamiin..
 
 ### Markdown
 
