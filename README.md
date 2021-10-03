@@ -24,9 +24,13 @@ Selanjutnya diluar dari Lingkungan Kantor jadi Content Creator nih hehee, dengan
 ```
 
 <br>
+
 ### Kontak
 
 **Punya masalah? atau mau Partner Bisnis, yuk hubungi Saya** 🤙😘<br>
 E-mail: trijuni@hotmail.com<br>
 Instagram: [@juni_127001](https://www.instagram.com/juni_127001/)<br>
 Twitter: [@juni_127001](https://www.twitter.com/juni_127001/)
+<br>
+<br>
+![TRI JUNI MANGKURAHARJO](https://user-images.githubusercontent.com/91836723/135767100-15291d2b-cd03-4488-9b53-639cb9af35be.jpg)
