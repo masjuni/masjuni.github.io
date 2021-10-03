@@ -34,4 +34,4 @@ Twitter: [@juni_127001](https://www.twitter.com/juni_127001/)
 <br>
 <br>
 ![TRI JUNI MANGKURAHARJO](https://user-images.githubusercontent.com/91836723/135767377-946b594f-ea76-44bf-b544-55cf388a1d8c.jpg)<br>
->`Tri Juni Mangkuraharjo`
+>`Tri Juni Mangkuraharjo, S.Kom`
