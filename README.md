@@ -5,7 +5,8 @@ Saya bermimpi menjadi orang sukses di dunia dan akherat. Semoga ini semua menjad
 
 ### Jobs
 
-Dengan belajar otodidak dari berbagai referensi di Internet, saya mulai belajar membuat video tutorial kemudian saya publikasi ke YouTube. Dan kini saya memiliki 2 (dua) Channel yang mudah-mudahan bisa bermanfaat untuk kita semua.
+Kesibukan saya saat ini, bukan sok sibuk tapi beneran punya kesibukan.. Alhamdulillah dipercaya jadi Staff Kantor di Kota Slawi - Kab. Tegal (Laporan Keuangan dan Tim Media).<br>
+Selanjutnya diluar dari Lingkungan Kantor jadi Content Creator nih hehee, dengan belajar otodidak dari berbagai referensi di Internet, saya mulai belajar membuat video tutorial kemudian saya publikasi ke YouTube. Dan kini saya memiliki 2 (dua) Channel yang mudah-mudahan bisa bermanfaat untuk kalian semua.
 #### [1] YouTube
 📺 [JAC Art Code](https://www.youtube.com/channel/UCaj_xoq4eM4dPRQg24KW6FA)
 
@@ -22,7 +23,6 @@ Dengan belajar otodidak dari berbagai referensi di Internet, saya mulai belajar 
         Bersedekah itu bukan hanya membantu orang lain, tetapi juga membantu diri kita sendiri"
 ```
 
-<br>
 <br>
 ### Kontak
 
