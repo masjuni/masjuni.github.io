@@ -31,7 +31,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Kontak
 
-Punya masalah? Yuk hubungi saya :)<br>
+**Punya masalah? Yuk hubungi saya :)**<br>
 E-mail: trijuni@hotmail.com<br>
 Instagram: @juni_127001<br>
 Twitter: @juni_127001
