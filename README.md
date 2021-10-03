@@ -29,9 +29,9 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
-### Support or Contact
+### Kontak
 
-Having trouble?
+Punya masalah? Yuk hubungi saya :)
 E-mail: trijuni@hotmail.com
 Instagram: @juni_127001
 Twitter: @juni_127001
