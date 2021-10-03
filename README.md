@@ -10,10 +10,10 @@ Dengan belajar otodidak dari berbagai referensi di Internet, saya mulai belajar 
 ```markdown
 
 # YouTube [1]
-:tv: [JAC Art Code](https://www.youtube.com/channel/UCaj_xoq4eM4dPRQg24KW6FA)
+[JAC Art Code](https://www.youtube.com/channel/UCaj_xoq4eM4dPRQg24KW6FA)
 
 # YouTube [2]
-:tv: [1001 bootanimation](https://www.youtube.com/channel/UCN0nycdsYxB0VHQWlF94Y5Q)
+[1001 bootanimation](https://www.youtube.com/channel/UCN0nycdsYxB0VHQWlF94Y5Q)
 
 ```
 
