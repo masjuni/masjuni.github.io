@@ -6,17 +6,24 @@ Saya bermimpi menjadi orang sukses di dunia dan akherat. Semoga ini semua menjad
 ### Jobs
 
 Dengan belajar otodidak dari berbagai referensi di Internet, saya mulai belajar membuat video tutorial kemudian saya publikasi ke YouTube. Dan kini saya memiliki 2 (dua) Channel yang mudah-mudahan bisa bermanfaat untuk kita semua.
+#### [1] YouTube
+📺 [JAC Art Code](https://www.youtube.com/channel/UCaj_xoq4eM4dPRQg24KW6FA)
+
+#### [2] YouTube
+📺 [1001 bootanimation](https://www.youtube.com/channel/UCN0nycdsYxB0VHQWlF94Y5Q)
+<br>
+<br>
+<br>
 
 ```markdown
-
-# YouTube [1]
-[JAC Art Code](https://www.youtube.com/channel/UCaj_xoq4eM4dPRQg24KW6FA)
-
-# YouTube [2]
-[1001 bootanimation](https://www.youtube.com/channel/UCN0nycdsYxB0VHQWlF94Y5Q)
-
+# Quotes of the day:
+    "Perbanyak Sedekah,
+      Bersedekahlah kawan..
+        Bersedekah itu bukan hanya membantu orang lain, tetapi juga membantu diri kita sendiri"
 ```
 
+<br>
+<br>
 ### Kontak
 
 **Punya masalah? atau mau Partner Bisnis, yuk hubungi Saya :call_me_hand::kissing_heart:**<br>
