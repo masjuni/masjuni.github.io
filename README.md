@@ -26,7 +26,7 @@ Selanjutnya diluar dari Lingkungan Kantor jadi Content Creator nih hehee, dengan
 <br>
 ### Kontak
 
-**Punya masalah? atau mau Partner Bisnis, yuk hubungi Saya :call_me_hand::kissing_heart:**<br>
+**Punya masalah? atau mau Partner Bisnis, yuk hubungi Saya** :call_me_hand::kissing_heart: <br>
 E-mail: trijuni@hotmail.com<br>
 Instagram: [@juni_127001](https://www.instagram.com/juni_127001/)<br>
 Twitter: [@juni_127001](https://www.twitter.com/juni_127001/)
