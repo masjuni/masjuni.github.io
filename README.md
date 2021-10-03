@@ -33,4 +33,4 @@ Instagram: [@juni_127001](https://www.instagram.com/juni_127001/)<br>
 Twitter: [@juni_127001](https://www.twitter.com/juni_127001/)
 <br>
 <br>
-![TRI JUNI MANGKURAHARJO](https://user-images.githubusercontent.com/91836723/135767100-15291d2b-cd03-4488-9b53-639cb9af35be.jpg)
+<center> ![TRI JUNI MANGKURAHARJO](https://user-images.githubusercontent.com/91836723/135767377-946b594f-ea76-44bf-b544-55cf388a1d8c.jpg) </center>
