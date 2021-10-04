@@ -17,7 +17,7 @@ Selanjutnya diluar dari Lingkungan Kantor jadi Content Creator nih hehee, dengan
 <br>
 
 ```markdown
-# Quotes of the day:
+# Quotes of the Year:
     "Perbanyak Sedekah,
       Bersedekahlah kawan..
         Bersedekah itu bukan hanya membantu orang lain, tetapi juga membantu diri kita sendiri"
