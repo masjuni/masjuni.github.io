@@ -1,6 +1,6 @@
 ## Welcome
 
-Saya dari Indonesia [🇮🇩] dan belum jadi apa-apa, tapi mencoba menjadi apa yang saya impikan..<br>
+Saya dari Indonesia 🇮🇩 dan belum jadi apa-apa, tapi mencoba menjadi apa yang saya impikan..<br>
 Saya ingin membahagiakan diri sendiri dan orangtua di dunia dan akherat. Semoga ini semua menjadi kenyataan.. Aamiin..
 
 ### About me
