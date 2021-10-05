@@ -1,12 +1,12 @@
-## Selamat Datang
+## Welcome
 
 Saya bukan apa-apa, tapi mencoba menjadi apa yang saya impikan..<br>
 Saya bermimpi menjadi orang sukses di dunia dan akherat. Semoga ini semua menjadi kenyataan.. Aamiin..
 
-### Tentang
+### About me
 
 Kesibukan saya saat ini, bukan sok sibuk tapi beneran punya kesibukan.. Alhamdulillah dipercaya jadi Staff Kantor di Kota Slawi - Kab. Tegal (Laporan Keuangan dan Tim Media).<br><br>
-Selanjutnya diluar dari Lingkungan Kantor jadi Content Creator nih hehee, dengan belajar otodidak dari berbagai referensi di Internet, saya mulai belajar membuat video tutorial kemudian saya publikasi ke YouTube. Dan kini saya memiliki 2 (dua) Channel yang mudah-mudahan bisa bermanfaat untuk kalian semua.
+Selanjutnya diluar dari Lingkungan Kantor jadi Content Creator nih hehee, dengan belajar otodidak dari berbagai referensi di Internet, saya mulai belajar membuat video tutorial kemudian saya publikasi ke YouTube. Dan kini saya memiliki 2 (dua) Channel yang mudah-mudahan bisa bermanfaat untuk kalian semua. *_#FYI.._* saya punya nilai plus nih, sudah mulai jago dunia Editing, Editing Foto + Video. 
 #### YouTube ✔️
 📺 [JAC Art Code](https://www.youtube.com/channel/UCaj_xoq4eM4dPRQg24KW6FA)
 
@@ -25,7 +25,7 @@ Selanjutnya diluar dari Lingkungan Kantor jadi Content Creator nih hehee, dengan
 
 <br>
 
-### Kontak
+### Contact
 
 **Punya masalah? atau mau Partner Bisnis, yuk hubungi Saya** 🤙😘<br>
 E-mail: [trijuni@hotmail.com](mailto:trijuni@hotmail.com)<br>
