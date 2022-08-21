@@ -9,9 +9,10 @@ Kesibukan saya saat ini, bukan sok sibuk tapi beneran punya kesibukan.. Alhamdul
 Selanjutnya diluar dari Lingkungan Kantor jadi Content Creator nih hehee, dengan belajar otodidak dari berbagai referensi di Internet, saya mulai belajar membuat video tutorial kemudian saya publikasi ke YouTube. Dan kini saya memiliki 2 (dua) Channel yang mudah-mudahan bisa bermanfaat untuk kalian semua. _**#FYI..**_ saya punya nilai plus nih, sudah mulai jago dunia Editing, Editing Foto + Video. 
 
 #### My Photo Galley on Unsplash
-![Unsplash](https://global-uploads.webflow.com/5b0c471ddb589cf22d4477a4/5cd716028463a5a1d1b1e73d_unsplash-app-icon-2.png)<br>
-FOLLOW: https://unsplash.com/@juni_127001
+![Unsplash](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAHlBMVEX///8AAADh4eEeHh7k5OT7+/s5OTkbGxvGxsYEBARPQlTxAAAArElEQVR4nO3ayw3EIAxAwSw4Iem/4e0AIyHvR5p3D5ob4HAckiTprzqjpcVZCIirp11RCGj9ldYbAAAAAAAAAAAAAABAISCukV2MRunN6Ot3Q0mSPtB8v1vZ6TZXmM9CV/b6zRXmZ56V087mCgAAAAAAAAAAAAAAAPPPx51OKuMehYAnndT2Pp5CwH4AAAAAAAAAAAAAAAApYOUB/07pT6uVZyo7eeIiSdLv9QYvhBxZ20VX5wAAAABJRU5ErkJggg==)<br>
+FOLLOW: [https://unsplash.com/@juni_127001](https://unsplash.com/@juni_127001)
 
+![Youtube](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube2_colored_svg-128.png)<br>
 #### YouTube ✔️
 📺 [JAC Art Code](https://www.youtube.com/channel/UCaj_xoq4eM4dPRQg24KW6FA)
 
