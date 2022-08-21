@@ -8,7 +8,7 @@ Saya ingin membahagiakan diri sendiri dan orang tua di dunia dan akherat. Semoga
 Kesibukan saya saat ini, bukan sok sibuk tapi beneran punya kesibukan.. Alhamdulillah dipercaya jadi Staff Kantor di Kota Slawi - Kab. Tegal (Laporan Keuangan dan Tim Media).<br><br>
 Selanjutnya diluar dari Lingkungan Kantor jadi Content Creator nih hehee, dengan belajar otodidak dari berbagai referensi di Internet, saya mulai belajar membuat video tutorial kemudian saya publikasi ke YouTube. Dan kini saya memiliki 2 (dua) Channel yang mudah-mudahan bisa bermanfaat untuk kalian semua. _**#FYI..**_ saya punya nilai plus nih, sudah mulai jago dunia Editing, Editing Foto + Video. 
 
-#### My Photo Galley on Unsplash
+#### My Photo Gallery on Unsplash
 ![Unsplash](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAHlBMVEX///8AAADh4eEeHh7k5OT7+/s5OTkbGxvGxsYEBARPQlTxAAAArElEQVR4nO3ayw3EIAxAwSw4Iem/4e0AIyHvR5p3D5ob4HAckiTprzqjpcVZCIirp11RCGj9ldYbAAAAAAAAAAAAAABAISCukV2MRunN6Ot3Q0mSPtB8v1vZ6TZXmM9CV/b6zRXmZ56V087mCgAAAAAAAAAAAAAAAPPPx51OKuMehYAnndT2Pp5CwH4AAAAAAAAAAAAAAAApYOUB/07pT6uVZyo7eeIiSdLv9QYvhBxZ20VX5wAAAABJRU5ErkJggg==)<br>
 Follow: [https://unsplash.com/@juni_127001](https://unsplash.com/@juni_127001)
 
