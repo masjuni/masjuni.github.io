@@ -32,7 +32,7 @@ Follow: [https://unsplash.com/@juni_127001](https://unsplash.com/@juni_127001)
 
 ### Kontak
 
-**Punya masalah? atau mau Partner Bisnis, yuk hubungi Saya** 🤙😘<br>
+**Punya masalah? atau mau Partner Bisnis, yuk hubungi Saya** ☎️<br>
 E-mail: [trijuni@hotmail.com](mailto:trijuni@hotmail.com)<br>
 Instagram: [@juni_127001](https://www.instagram.com/juni_127001/)<br>
 Twitter: [@juni_127001](https://www.twitter.com/juni_127001/)
